@@ -4,7 +4,7 @@ In this project, I'll show you how to use Google Maps, Directions API, Markers, 
 
 Resources Used In Project:
  
-1) Source Code: https://github.com/Meizzosama/google_maps_yt
+1) Source Code: https://github.com/Meizzosama/flutter-google-maps
 2) Google Maps Package: https://pub.dev/packages/google_maps_flutter
 3) Location Package: https://pub.dev/packages/location
 4) Flutter Poly-line Points: https://pub.dev/packages/flutter_polyline_points
